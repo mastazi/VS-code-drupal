@@ -12,7 +12,7 @@
         "languages": [{
             "id": "php",
             "aliases": [ "PHP", "php" ],
-            "extensions": [ "engine", "theme", "install", "inc", "make", "module", "profile", "test" ]
+            "extensions": [ ".engine", ".theme", ".install", ".inc", ".make", ".module", ".profile", ".test" ]
         }]
     }
 }
