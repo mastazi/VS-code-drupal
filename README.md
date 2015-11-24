@@ -1,6 +1,6 @@
 # Drupal Support for Visual Studio Code
 
-This extension provides code highlighting support for Drupal specific file types, such as .module, .inc, .theme etc.
+This extension provides syntax highlighting support for Drupal specific file types, such as .module, .inc, .theme etc.
 
 ### Manual installation:
 
