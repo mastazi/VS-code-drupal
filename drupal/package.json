@@ -1,10 +1,16 @@
 {
-    "name": "drupal",
+    "name": "VS-code-drupal",
+    "displayName": "Drupal Support for Visual Studio Code",
+    "description": "This VS Code extension provides syntax highlighting support for Drupal specific file types, such as .module, .inc, .theme etc.",
     "version": "0.0.1",
     "engines": {
         "vscode": "0.10.x"
     },
-    "publisher": "none",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mastazi/VS-code-drupal"
+    },
+    "publisher": "marcostazi",
     "extensionDependencies": [
                      "php"
                 ],
