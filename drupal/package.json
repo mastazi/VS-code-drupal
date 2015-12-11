@@ -10,6 +10,9 @@
         "type": "git",
         "url": "https://github.com/mastazi/VS-code-drupal"
     },
+    "categories": [
+        "Other"
+    ],
     "publisher": "marcostazi",
     "extensionDependencies": [
                      "php"
