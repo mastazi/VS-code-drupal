@@ -4,9 +4,9 @@ This VS Code extension provides syntax highlighting support for Drupal specific 
 
 ### Standard Installation:
 
-1. Open the Command Palette in VS Code (Ctrl-Shift-P, Mac Cmd-Shift-P)
+1. Open the Command Palette in VS Code (Ctrl-Shift-P, Mac: Cmd-Shift-P)
 2. Type `ext install drupal`
-3. Loate the package "Drupal Support for Visual Studio Code" from the results list and press enter.
+3. Locate the package "Drupal Support for Visual Studio Code" from the results list and press enter.
 
 ### Manual Installation:
 
