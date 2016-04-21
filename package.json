@@ -4,7 +4,7 @@
     "description": "This VS Code extension provides syntax highlighting support for Drupal specific file types, such as .module, .inc, .theme etc.",
     "version": "0.0.5",
     "engines": {
-        "vscode": "0.10.x"
+        "vscode": "1.0.x"
     },
     "repository": {
         "type": "git",
