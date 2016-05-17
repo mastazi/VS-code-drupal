@@ -4,7 +4,7 @@
     "description": "Provides syntax highlighting support for Drupal specific file types, such as .module, .inc, .theme etc.",
     "version": "0.0.7",
     "engines": {
-        "vscode": "1.0.x"
+        "vscode": "1.x.x"
     },
     "repository": {
         "type": "git",
