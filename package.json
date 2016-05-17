@@ -2,7 +2,7 @@
     "name": "VS-code-drupal",
     "displayName": "Drupal Syntax Highlighting",
     "description": "Provides syntax highlighting support for Drupal specific file types, such as .module, .inc, .theme etc.",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "engines": {
         "vscode": "1.x.x"
     },

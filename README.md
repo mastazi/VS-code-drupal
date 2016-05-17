@@ -2,10 +2,11 @@
 
 This VS Code extension does one and only one thing: it provides syntax highlighting support for Drupal specific file types, such as .module, .inc, .theme etc.
 
-# "This module is useless because you can specify the filetypes in settings.json" 
+### "This extension is useless because you can specify the filetypes in settings.json" 
 
-Specifying the filetypes in settings.json is useless, because of this module :-p
-Besides, did you remember to include in your settings.json the less common Drupal extensions, such as .make and/or .profile? No? That's where you want to download this module ;-)
+Specifying the filetypes in your settings.json is useless, because of this extension :-p
+Jokes apart, I developed this plugin before the release of VS Code 1.0 and, at the time, using settings.json for that purpose wasn't an option.
+Besides that I still think that it could be useful to install it: for example, did you remember to include in your settings.json those less common Drupal file extensions, such as .make and/or .profile? No? That's where you want to download Drupal Syntax Highlighting ;-)
 
 ### Standard Installation:
 
