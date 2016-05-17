@@ -1,12 +1,17 @@
-# Drupal Support for Visual Studio Code
+# Drupal Syntax Highlighting
 
-This VS Code extension provides syntax highlighting support for Drupal specific file types, such as .module, .inc, .theme etc.
+This VS Code extension does one and only one thing: it provides syntax highlighting support for Drupal specific file types, such as .module, .inc, .theme etc.
+
+# "This module is useless because you can specify the filetypes in settings.json" 
+
+Specifying the filetypes in settings.json is useless, because of this module :-p
+Besides, did you remember to include in your settings.json the less common Drupal extensions, such as .make and/or .profile? No? That's where you want to download this module ;-)
 
 ### Standard Installation:
 
 1. Open the Command Palette in VS Code (Ctrl-Shift-P, Mac: Cmd-Shift-P)
 2. Type `ext install drupal`
-3. Locate the package "Drupal Support for Visual Studio Code" from the results list and press enter.
+3. Locate the package "Drupal Syntax Highlighting" from the results list and press enter.
 
 ### Manual Installation:
 
