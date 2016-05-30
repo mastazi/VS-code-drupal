@@ -4,9 +4,8 @@ This VS Code extension does one and only one thing: it provides syntax highlight
 
 ### "This plugin is useless because you can specify the filetypes in settings.json" 
 
-Well, specifying the filetypes in your settings.json is useless, because of this plugin :-p
-Jokes apart, I developed it before the release of VS Code 1.0 and, at the time, using settings.json for that purpose wasn't an option.
-Besides that, I think that the plugin is still useful as of today, as it is far easier to install a single plugin than having to manually add several file extensions to your settings.json (some of those extension are not common and might be easily missed).
+I developed the plugin before the release of VS Code 1.0 and, at the time, using settings.json for that purpose wasn't an option.
+Besides that, I think the extension is still useful as of today, as it is far easier to install a single plugin than having to manually add several filetypes to your settings.json (some of those file extensions are not common and might be easily missed).
 
 ### Standard Installation:
 
