@@ -16,9 +16,3 @@ If you want, you can specify the syntax highlighting rules for specific filetype
 * .module 
 * .profile 
 * .test
-
-### Standard Installation:
-
-1. Open the Command Palette in VS Code (Ctrl-Shift-P, Mac: Cmd-Shift-P)
-2. Type `ext install drupal`
-3. Locate the package "Drupal Syntax Highlighting" from the results list and press enter.
