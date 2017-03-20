@@ -16,3 +16,4 @@ If you want, you can specify the syntax highlighting rules for specific filetype
 * .module 
 * .profile 
 * .test
+* .info
